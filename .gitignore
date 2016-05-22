@@ -1,0 +1,7 @@
+/Hijacker/bin/**
+/Hijacker/obj/**
+/UntestableLibrary/bin/**
+/UntestableLibrary/obj/**
+/UntestableTests/bin/**
+/UntestableTests/obj/**
+/packages/**
